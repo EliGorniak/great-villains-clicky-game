@@ -1,0 +1,11 @@
+.containner {
+  height: 80%;
+  display: flex;
+  background-color: darkgray;
+  background-size: cover;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  margin: auto;
+}

@@ -1,0 +1,29 @@
+.jumbotron-fluid {
+  color: rgb(248, 245, 52);
+  font-family: "Didact Gothic", sans-serif;
+  background-image: url(./background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  margin: auto;
+  margin-top: 5px;
+  color: antiquewhite;
+}
+
+h2 {
+  font-family: "Bangers", cursive;
+  font-size: 80px;
+  color: rgb(243, 245, 126);
+  font-weight: bold;
+}
+
+h4 {
+  font-family: "Didact Gothic", sans-serif;
+}
+
+.score {
+  font-family: "Didact Gothic", sans-serif;
+  font-size: 20px;
+  color: antiquewhite;
+  font-weight: bold;
+}

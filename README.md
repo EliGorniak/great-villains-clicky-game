@@ -10,7 +10,7 @@ It contains images of the most famous villains of history and you will be challe
 ### Deployed App
 
 You can visit the app here:
-
+https://great-villains-clicky-game.herokuapp.com/
 
 ---
 
@@ -25,8 +25,8 @@ Enjoy it!
 ### Technologies
 
 - Node.js
-- Express.js
 - React.js
+- React-DOM.js
 - Bootstrap 
 
 ---

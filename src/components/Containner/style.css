@@ -1,11 +1,12 @@
 .containner {
-  height: 80%;
+  width: 90%;
+  height: 90%;
   display: flex;
-  background-color: darkgray;
+  background-color: rgb(243, 245, 127);
   background-size: cover;
-  flex-flow: row wrap;
   justify-content: space-around;
-  align-content: flex-start;
   overflow: auto;
   margin: auto;
+  align-content: flex-start;
+  flex-flow: row wrap;
 }
